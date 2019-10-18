@@ -1,2 +1,11 @@
 # ignore
 
+# Maven
+target/
+
+# IntelliJ project
+*.iml
+*.iws
+*.ipr
+.idea/
+
